@@ -28,7 +28,7 @@ print(date_finish)
 
 # TODO Учесть временную разницу с МСК, не критично но может повлиять
 
-url = 'https://billing.eljur.ru/data/mo_stat/Активность%20пользователей%20ЭлЖур%20в%20Красноярске%20за%20'
+url = 'https:url'
 
 url = '{url}{date_start}-{date_finish}.xls'.format(url=url, date_start=date_start, date_finish=date_finish)
 
